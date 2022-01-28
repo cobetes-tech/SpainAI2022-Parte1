@@ -2,10 +2,10 @@
 
 Este es el repositorio correspondiente a uno de los talleres más molones de Spain AI 2022.
 
-El segundo repositorio del taller lo tienes [aquí](https://github.com/cobetes-tech/PyConEs2021-Parte2) .
+El segundo repositorio del taller lo tienes [aquí](https://github.com/cobetes-tech/SpainAI2022-Parte2) .
 
 
-Por cierto, tenemos la aplicación desplegada en Heroku. Si quieres echar un ojo [pincha aquí](https://taller-ml-pycones-2021-1.herokuapp.com/) .
+Por cierto, tenemos la aplicación desplegada en Heroku. Si quieres echar un ojo [pincha aquí](https://taller-ml-spainai-2022-1.herokuapp.com/) .
 
 Para más información:
 

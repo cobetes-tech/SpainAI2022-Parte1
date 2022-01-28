@@ -1,11 +1,12 @@
 import streamlit as st
 
+
 def front():
 
-    text =  """
+    text = """
             # ¡Oh, un modelo de ML, vamos a desplegarlo! - Machine learning para adultos 
             
-            ¡Enhorabuena por llegar a uno de los talleres más molones de la PyConEs 2021!
+            ¡Enhorabuena por llegar a uno de los talleres más molones de Spain AI 2022!
             
             Hoy vas a trastear con:
 
@@ -22,7 +23,6 @@ def front():
             * Lino Figueroa: [impalah@gmail.com](mailto:impalah@gmail.com)
             """
     st.write(text)
-
 
     image_huggingface_url = "https://avatars.githubusercontent.com/u/25720743?s=200"
     st.image(image_huggingface_url)

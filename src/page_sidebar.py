@@ -1,13 +1,14 @@
 import streamlit as st
 
+
 def sidebar(ls_page_name):
 
     # Resources
-    image_pyconlogo_url = "https://pbs.twimg.com/profile_images/1379380435969527810/5RNBIJY9.jpg"
-    edition = "PyConEs 2021"
+    image_spainai_url = "https://www.spain-ai.com/wp-content/uploads/2021/04/cropped-spain_ai-150x150.png"
+    edition = "Spain AI 2022"
     title = "# Vamos a explorar"
 
-    st.sidebar.image(image_pyconlogo_url)
+    st.sidebar.image(image_spainai_url)
     st.sidebar.write(edition)
     st.sidebar.write(title)
     page_name = st.sidebar.selectbox("", ls_page_name)
