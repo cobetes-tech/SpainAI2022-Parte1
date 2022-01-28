@@ -35,7 +35,7 @@ def cheatsheet():
 
     title = "4. Expand"
     expander = st.expander(title)
-    text = "Te sirve para generar estas cajitas desplegables tan chulas que estás usando ahora. Perfecto para no hacer spoilers"
+    text = "*st.expander* Te sirve para generar estas cajitas desplegables tan chulas que estás usando ahora. Perfecto para no hacer spoilers"
     expander.write(text)
 
     title = "5. Sidebar"
